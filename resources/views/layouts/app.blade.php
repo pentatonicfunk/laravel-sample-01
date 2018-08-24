@@ -53,5 +53,6 @@
 @else
 
 @endif
+@yield('page_script')
 </body>
 </html>
